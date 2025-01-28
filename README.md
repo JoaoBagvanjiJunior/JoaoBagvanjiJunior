@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm <strong>João Bagvanji Júnior</strong>, a passionate <strong>Full-Stack Developer</strong> with over <strong>2 years of professional experience</strong> creating high-quality web and mobile applications. I thrive on building modern, user-friendly, and scalable solutions that make a real impact.
+Welcome to my GitHub profile! I'm <strong>João Bagvanji Júnior</strong>, a passionate <strong>Full-Stack Developer</strong> with over <strong>4 years of professional experience</strong> creating high-quality web and mobile applications. I thrive on building modern, user-friendly, and scalable solutions that make a real impact.
 </p>
 
 ---
@@ -14,7 +14,7 @@
     <li><strong>Back-End:</strong> Node.js, NestJS, Docker, Prisma, PostgreSQL, MongoDB.</li>
   </ul>
   <li>🚀 <strong>Experience with:</strong> Scalable architectures, API development, state management (Redux, Zustand), and performance optimization techniques like SSR and code splitting.</li>
-  <li>🌐 <strong>Languages:</strong> JavaScript, TypeScript, Python, SQL.</li>
+  <li>🌐 <strong>Languages:</strong> JavaScript, TypeScript, Python, PHP, SQL.</li>
 </ul>
 
 ---
@@ -40,8 +40,8 @@
 <h2>📫 How to reach me</h2>
 <ul>
   <li>📧 <strong>Email:</strong> <a href="mailto:joaobagvanji99@gmail.com">joaobagvanji99@gmail.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="#">linkedin.com/in/joaobagvanji</a> (replace with your link)</li>
-  <li>💻 <strong>Portfolio:</strong> <a href="#">Your Website or Portfolio Link</a> (if you have one)</li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-junior-3192802a3/">linkedin.com/in/joao-junior-3192802a3</a>(https://www.linkedin.com/in/joao-junior-3192802a3/)</li>
+  <li>💻 <strong>Portfolio:</strong> <a href="https://joaobagvanji-portfolio.netlify.app/">Your Website or Portfolio Link</a>https://joaobagvanji-portfolio.netlify.app/</li>
 </ul>
 
 ---
