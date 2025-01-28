@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm <strong>João Bagvanji Júnior</strong>, a pas
 <h2>📫 How to reach me</h2>
 <ul>
   <li>📧 <strong>Email:</strong> <a href="mailto:joaobagvanji99@gmail.com">joaobagvanji99@gmail.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-junior-3192802a3/">linkedin.com/in/joao-junior-3192802a3</a>(https://www.linkedin.com/in/joao-junior-3192802a3/)</li>
-  <li>💻 <strong>Portfolio:</strong> <a href="https://joaobagvanji-portfolio.netlify.app/">Your Website or Portfolio Link</a>https://joaobagvanji-portfolio.netlify.app/</li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-junior-3192802a3/"></a>(https://www.linkedin.com/in/joao-junior-3192802a3/)</li>
+  <li>💻 <strong>Portfolio:</strong> <a href="https://joaobagvanji-portfolio.netlify.app/"></a>https://joaobagvanji-portfolio.netlify.app/</li>
 </ul>
 
 ---
@@ -58,10 +58,10 @@ Welcome to my GitHub profile! I'm <strong>João Bagvanji Júnior</strong>, a pas
 
 <h2 align="center">⭐ Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBagvanjiJunior&show_icons=true&theme=radical" alt="João's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBagvanjiJunior&show_icons=true&theme=dracula" alt="João's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBagvanjiJunior&layout=compact&theme=radical" alt="João's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBagvanjiJunior&layout=compact&theme=dracula" alt="João's Top Languages" />
 </p>
 
 ---
