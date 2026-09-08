@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm <strong>João Bagvanji Júnior</strong>, a pas
 <ul>
   <li>📧 <strong>Email:</strong> <a href="mailto:joaobagvanji99@gmail.com">joaobagvanji99@gmail.com</a></li>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-junior-3192802a3/"></a>(https://www.linkedin.com/in/joao-junior-3192802a3/)</li>
-  <li>💻 <strong>Portfolio:</strong> <a href="https://joaobagvanji-portfolio.netlify.app/"></a>https://joaobagvanji-portfolio.netlify.app/</li>
+  <li>💻 <strong>Portfolio:</strong> <a href="[https://joaobagvanji-portfolio.netlify.app](https://joaobagvanjiportifolio.netlify.app/)/"></a>[https://joaobagvanji-portfolio.netlify.app/](https://joaobagvanjiportifolio.netlify.app/)</li>
 </ul>
 
 ---
